@@ -1,0 +1,4 @@
+FBreaderCloud
+=============
+
+FBreader plugin 
